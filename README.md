@@ -1,4 +1,4 @@
-# DER Data Collected at Center for Microgrid Research
+# DER Data Collected at the Center for Microgrid Research
 The Center for Microgrid Research is dedicated to improving the reliability and resiliency of our electric grid. Through our educational programs, research, and partnerships, we are building the human and operational capacity needed for the 21st century grid.
 
 ## Citation
