@@ -6,5 +6,4 @@ Data included in this folder is collected from the Center for Microgrid Research
 
 ## Looking to learn more?
 If you are interested in learning more about our center, please visit our [website](https://engineering.stthomas.edu/industry/microgrid-research-center/) or follow us on [LinkedIn](https://www.linkedin.com/company/st-thomas-center-for-microgrid-research/) for the latest news and updates.
-
 We are always looking for new collaborators and partners who share our vision and passion for microgrid research and education. Whether you are a student, faculty, researcher, industry professional, or community member, we welcome you to join us in our mission to shape the future of energy.
