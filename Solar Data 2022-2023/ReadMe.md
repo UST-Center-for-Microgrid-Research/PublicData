@@ -2,6 +2,8 @@
 This spreadsheet compares solar microgrid data to various weather data including UV index, solar radiation, relative humidity, temperature, AQI (Air Quality Index), PM2.5, and PM10.
 The solar data is recorded from a 48kW array on the roof of the FDC building on the UST campus.
 
+Data gathered on days and partial days where solar data was not recorded have been removed from this spreadsheet.
+
 The project that produced this data was made possible in whole or in part by a grant from the Minnesota Department of Commerce through the Minnesota Renewable Development Account, which is financed by Xcel Energy ratepayers.
 
 ## Weather Data
