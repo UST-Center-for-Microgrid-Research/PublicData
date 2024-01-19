@@ -15,6 +15,7 @@ The 24 hour times shown are represented in UTC, with local time as UTC-5 during 
 This data is from June 13th to June 21st
 
 ## Dates
+- April 19th, 20th, and 21st were cloudy and rainy
 - June 13th was sunny
 - June 14th and 15th had high levels of wild fire smoke with hazardous air quality
 - June 16th and 17th were sunny
