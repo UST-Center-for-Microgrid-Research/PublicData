@@ -4,7 +4,7 @@
 Data included in this folder is collected from the Center for Microgrid Research at the University of St. Thomas in St. Paul, Minnesota. Please cite the Center for Microgrid Research in any publications that utilize this data
 
 ## Request Data
-Use this form to request data from the Center for Microgrid Research.
+Use this form to request data from the Center for Microgrid Research. <br>
 [Request for Data](https://forms.office.com/Pages/ResponsePage.aspx?id=ef-BoIwx7EWV8zjrwoAUcu-vukI7k7dNlMyaJ19ycY5URVk0NDZGS0JRWklQQVpITFhHMEg1NTk1TC4u)
 
 ## Looking to learn more?
