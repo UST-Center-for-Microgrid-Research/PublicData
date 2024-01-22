@@ -1,4 +1,4 @@
-# DER Data Collected at the Center for Microgrid Research
+# Data Collected at the Center for Microgrid Research
 
 ## Citation
 Data included in this folder is collected from the Center for Microgrid Research at the University of St. Thomas in St. Paul, Minnesota. Please cite the Center for Microgrid Research in any publications that utilize this data
