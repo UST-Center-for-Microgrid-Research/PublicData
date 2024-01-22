@@ -1,5 +1,5 @@
 # ReadMe
-This folder contains data collected during microgrid testing
+This folder contains data collected during microgrid testing.
 
 ## Types of Testing
 Four fundamental functions of a microgrid are:
