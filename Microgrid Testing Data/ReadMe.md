@@ -4,7 +4,7 @@ This folder contains data collected during testing of the microgrid at the Cente
 ## Types of Testing
 Four fundamental functions of a microgrid are:
 - Blackstart
-- Operation
+- Island Operation
 - Transitioning from Islanded to Grid Connected
 - Transitioning from Grid Connected to Islanded
 
