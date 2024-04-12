@@ -1,6 +1,5 @@
 # Center for Microgrid Research
-![Microgrid3](https://github.com/UST-Center-for-Microgrid-Research/Data/assets/131385087/c7afbc89-0c0c-4117-877f-a126e174577c)
-
+![image](https://github.com/UST-Center-for-Microgrid-Research/Data/assets/131385087/31baabdb-ab05-4d7c-9113-89759c8a0977)
 ## Citation
 Data included in this folder is collected from the Center for Microgrid Research at the University of St. Thomas in St. Paul, Minnesota. Please cite the Center for Microgrid Research in any publications that utilize this data
 
