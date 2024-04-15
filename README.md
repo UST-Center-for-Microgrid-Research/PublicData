@@ -1,4 +1,4 @@
-<center># Center for Microgrid Research.</center>
+<center><h1>Center for Microgrid Research</h1></center>
 
 ![image](https://github.com/UST-Center-for-Microgrid-Research/Data/assets/131385087/31baabdb-ab05-4d7c-9113-89759c8a0977)
 ## Citation
