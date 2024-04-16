@@ -1,6 +1,9 @@
 <center><h1>Center for Microgrid Research</h1></center>
 
 ![image](https://github.com/UST-Center-for-Microgrid-Research/Data/assets/131385087/31baabdb-ab05-4d7c-9113-89759c8a0977)
+
+The Center for Microgrid Research is dedicated to improving the reliability and resiliency of our electric grid. Through our educational programs, research, and partnerships, we are building the human and operational capacity needed for the 21st century grid.
+
 ## Citation
 Data included in this folder is collected from the Center for Microgrid Research at the University of St. Thomas in St. Paul, Minnesota. Please cite the Center for Microgrid Research in any publications that utilize this data
 
