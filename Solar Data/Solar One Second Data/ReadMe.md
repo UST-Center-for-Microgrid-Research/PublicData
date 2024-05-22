@@ -7,6 +7,7 @@ The project that produced this data was made possible in whole or in part by a g
 ## Weather Data
 The data for UV Index, solar radiation, relative humidity, and temperature is from the weatherbit API (https://www.weatherbit.io/api/historical-weather-api).
 The weather data is in standard Imperial units. The most grandular weather data available in the API was hourly, that is what is used within these data sets. 
+
 Data in this folder was collected for a variety of weather conditions: 
 
   -  April 19th, 20th, and 21st were cloudy and rainy
