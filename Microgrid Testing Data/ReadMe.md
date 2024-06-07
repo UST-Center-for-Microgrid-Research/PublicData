@@ -8,4 +8,4 @@ Four fundamental functions of a microgrid are:
 - Transitioning from Islanded to Grid Connected
 - Transitioning from Grid Connected to Islanded
 
-The data herein is from testing of each of these functions.
+Microgrid Testing data includes data from testing of each of these functions.
